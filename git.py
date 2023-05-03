@@ -13,5 +13,14 @@
 
 #generating ssh keys
 #ssh-keygen -t ed25519 -C "your_email@example.com"
-#currntbranch
+
+
+
+
+###GIT Branching
 #git branch (Shows all branch and highlights the current branch)
+
+#git branch <branch_name> #creates a new branch
+#git checkout <branch_name> #jumps (checkout) to the next branch
+
+#git checkout -b <branch_name> #creates a new branch and jumps to that branch
